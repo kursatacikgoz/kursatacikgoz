@@ -4,7 +4,7 @@
 
 <h3>- I am a student of Marmara University Computer Science and Engineering</h3>
 
-🔭 I am currently working on web development technologies, especially on backend. 
+🔭 I am currently working on web development technologies. 
 
 <h3>Contact </h3>
 <a href="https://www.linkedin.com/in/kursattacikgoz" ><img align="left" alt="kursattacikgoz | LinkedIn" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg" width="30"></a>
