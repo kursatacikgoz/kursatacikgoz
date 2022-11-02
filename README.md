@@ -1,8 +1,10 @@
 
 
-<h3>- I am a student of Marmara University Computer Science and Engineering</h3>
+<h2>Hi there 👋</h2>
 
-🔭 I am currently working on game development technologies. 
+<h3>- I graduated from Marmara University Computer Science Engineering. </h3>
+
+🔭 I am interested in mobile game development technologies.
 
 <h3>Contact </h3>
 <a href="https://www.linkedin.com/in/kursattacikgoz" ><img align="left" alt="kursattacikgoz | LinkedIn" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="30"></a>
