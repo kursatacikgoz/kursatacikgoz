@@ -1,12 +1,11 @@
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kursatacikgoz&repo=kursatacikgoz&countColorcountColor&countColor=%237B1E7B"/>
-<h2>Hi there 👋</h2>
 
 <h3>- I am a student of Marmara University Computer Science and Engineering</h3>
 
 🔭 I am currently working on game development technologies. 
 
 <h3>Contact </h3>
+<a href="https://www.linkedin.com/in/kursattacikgoz" ><img align="left" alt="kursattacikgoz | LinkedIn" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width="30"></a>
 
 
 
